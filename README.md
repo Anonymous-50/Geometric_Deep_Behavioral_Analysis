@@ -7,6 +7,11 @@ Alzheimer’s disease (AD) is a progressive and irreversible brain disorder that
 </div>
 
 ### Sample Video and Pose Tracking 
-We use the the DeepLabCut (DLC) pose animal tracking toolbox to extract the mice posture from our video dataset. For all instructions on installation and usage of the DLC toolboox, visit their Github page [here](https://github.com/DeepLabCut/DeepLabCut/tree/main)
+We use the the DeepLabCut (DLC) animal pose tracking toolbox to extract the mice posture from our video dataset. For all instructions on installation and usage of the DLC toolboox, visit their Github page [Here](https://github.com/DeepLabCut/DeepLabCut/tree/main)
 
 <img src="samples/combine.gif" style="width:100%; height:auto;">
+
+### Packages and Dependencies
+- For packages and dependencies, first create an enviroment using Python, activate the enviroment and run "pip install -r requirements.txt"
+
+
