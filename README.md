@@ -11,6 +11,7 @@ We use the the DeepLabCut (DLC) pose animal tracking toolbox to extract the mice
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <td><img width="250px" src="samples/Video.gif"></td>
-    <td><img width="250px" src="samples/Tracking.gif"></td>
+    <td style="width:50%;"><img style="width:100%;" src="samples/Video.gif"></td>
+    <td style="width:50%;"><img style="width:100%;" src="samples/Tracking.gif"></td>
   </tr>
+</table>
