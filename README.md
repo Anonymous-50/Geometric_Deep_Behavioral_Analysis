@@ -17,4 +17,6 @@ We use the the DeepLabCut (DLC) animal pose tracking toolbox to extract the mice
 ## Data Preparation 
 - In the 'data_preparation' folder contains the files for preparing the pose skeleton files before feeding them to the geometric deep framework.  
 
+## Data Loading 
+- In the 'data_loader' folder contains the files for loading as binary or triple classification tasks. 
 
