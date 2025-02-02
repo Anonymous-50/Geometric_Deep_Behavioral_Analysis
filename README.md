@@ -17,12 +17,12 @@ We use the the DeepLabCut (DLC) animal pose tracking toolbox to extract the mice
 ## Data Preparation 
 - In the 'data_preparation' folder contains the files for preparing the pose skeleton files before feeding them to the geometric deep framework.
 
-## Angular velocity
-- use the 'compute_ang_velocity' file. 
-
 ## Data Loading 
 - In the 'data_loader' folder contains the files for loading as binary or triple classification tasks.
 
 ## Training
-- For the network training, use the file 'train_LOOCV_b' or 'train_LOOCV_m' for binary or multi-class respectively.   
+- For the network training, use the file 'train_LOOCV_b' or 'train_LOOCV_m' for binary or multi-class respectively.
+
+- ## Angular velocity
+- Use the 'compute_ang_velocity' file. 
 
