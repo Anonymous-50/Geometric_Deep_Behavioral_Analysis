@@ -23,6 +23,6 @@ We use the the DeepLabCut (DLC) animal pose tracking toolbox to extract the mice
 ## Training
 - For the network training, use the file 'train_LOOCV_b' or 'train_LOOCV_m' for binary or multi-class respectively.
 
-- ## Angular velocity
+## Angular velocity
 - Use the 'compute_ang_velocity' file. 
 
