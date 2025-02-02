@@ -15,7 +15,10 @@ We use the the DeepLabCut (DLC) animal pose tracking toolbox to extract the mice
 - For packages and dependencies, first create an enviroment using Python, activate the enviroment and run "pip install -r requirements.txt"
 
 ## Data Preparation 
-- In the 'data_preparation' folder contains the files for preparing the pose skeleton files before feeding them to the geometric deep framework.  
+- In the 'data_preparation' folder contains the files for preparing the pose skeleton files before feeding them to the geometric deep framework.
+
+## Angular velocity
+- use the 'compute_ang_velocity' file. 
 
 ## Data Loading 
 - In the 'data_loader' folder contains the files for loading as binary or triple classification tasks.
